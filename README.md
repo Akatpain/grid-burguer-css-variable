@@ -7,3 +7,7 @@
 2. Cuando hagamos hover encima del botón de añadir producto al carrito, o encima de los items de menú, queremos verlo ahora de color rgb(44, 228, 182). Cambialo. [Vídeo](https://oscarm.tinytake.com/msc/ODAzMjM1Ml8yMTE3NzcwOQ)
 
 3. Usa una variable CSS para almacenar el color que usamos para todos los :hover. [Ayuda](https://www.w3schools.com/css/tryit.asp?filename=trycss3_var). Comprueba que lo has hecho bien cambiando el valor de la variable, y viendo que al hacer hover encima del botón o del item de menú, cambia al nuevo color que has establecido.
+
+## Solución
+
+Solución cortesía de [Júlia Valls](https://github.com/JuliaVallsMoix/grid-burguer-css-variable)
